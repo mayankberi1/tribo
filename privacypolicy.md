@@ -51,4 +51,3 @@ If you have any queries or complaints about our Privacy Policy please contact us
 
 Logicfactory Pvt Ltd
 admin@logicfactory.com.au
-+61-432019619
