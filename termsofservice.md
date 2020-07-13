@@ -1,13 +1,14 @@
 ---
 permalink: /terms
 ---
-TERMS AND CONDITIONS
+
+# TERMS AND CONDITIONS
 
 Last Updated 12 July  2020  
 
 
 
-1.   Agreement to Terms     
+## 1.   Agreement to Terms     
 
 1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (you), and Logicfactory Pvt ltd, doing business as  Tribo, located at 45 Parkgate Dr, Clyde North, Victoria 3978 Australia (we, us), concerning your access to and use of the Tribo App on Atlassian Marketplace(the App) as well as any related applications.  
 
@@ -29,7 +30,7 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 
 ●  Our Privacy Notice http://docs.tribo.net.au/privacypolicy, which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the App, you consent to such processing and you warrant that all data provided by you is accurate.   
 
-2.   Acceptable Use    
+## 2.   Acceptable Use    
 
 2.1 You may not access or use the App for any purpose other than that for which we make the App and our services available. The App may not be used in connection with any commercial endeavours except those that are specifically endorsed or approved by us.  
 
@@ -64,9 +65,9 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 ● Advertise products or services not intended by us
 ● Falsely imply a relationship with us or another company with whom you do not have a relationship     
 
-3.  Our content    
+## 3.  Our content    
 
-3.1 Unless otherwise indicated, the App and Services including source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (Our Content) are owned or licensed to us, and are protected by copyright and trade mark laws. 
+3.1 Unless otherwise indicated, the App and Services including source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the App (Our Content) are owned or licensed to us, and are protected by copyright and trade mark laws. 
 
 3.2 Except as expressly provided in these Terms and Conditions, no part of the App, Services or Our Content may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission. 
 
@@ -78,13 +79,13 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 
 3.6 The content on the App is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from taking, any action on the basis of the content on the App.  
 
-3.7 Although we make reasonable efforts to update the information on our App, we make no representations, warranties or guarantees, whether express or implied, that Our Content on the Site is accurate, complete or up to date.   
+3.7 Although we make reasonable efforts to update the information on our App, we make no representations, warranties or guarantees, whether express or implied, that Our Content on the App is accurate, complete or up to date.   
 
-4. Link to third party content   
+## 4. Link to third party content   
 
 4.1  The App may contain links to websites or applications operated by third parties. We do not have any influence or control over any such third party websites or applications or the third party operator. We are not responsible for and do not endorse any third party websites or applications or their availability or content.
 
-5.    App Management    
+## 5.    App Management    
 
 5.1  We reserve the right at our sole discretion, to (1) monitor the App for breaches of these Terms and Conditions; (2) take appropriate legal action against anyone in breach of applicable laws or these Terms and Conditions; (3) remove from the App or otherwise disable all files and content that are excessive in size or are in any way a burden to our systems; and (4) otherwise manage the App in a manner designed to protect our rights and property and to facilitate the proper functioning of the App and Services.  
 
@@ -92,7 +93,7 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 
 5.3 You are responsible for configuring your information technology, computer programs and platform to access the App and you should use your own virus protection software.  
 
-6.    Modifications to and availability of the App    
+## 6.    Modifications to and availability of the App    
 
 6.1 We reserve the right to change, modify, or remove the contents of the App at any time or for any reason at our sole discretion without notice. We also reserve the right to modify or discontinue all or part of the Services without notice at any time.   
 
@@ -100,7 +101,7 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 
 6.3 There may be information on the App that contains typographical errors, inaccuracies, or omissions that may relate to the Services, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information at any time, without prior notice.  
 
-7.    Disclaimer/Limitation of Liability    
+## 7.    Disclaimer/Limitation of Liability    
 
 7.1  The App and Services are provided on an as-is and as-available basis. You agree that your use of the App and/or Services will be at your sole risk except as expressly set out in these Terms and Conditions. All warranties, terms, conditions and undertakings, express or implied (including by statute, custom or usage, a course of dealing, or common law) in connection with the App and Services and your use thereof including, without limitation, the implied warranties of satisfactory quality, fitness for a particular purpose and non-infringement are excluded to the fullest extent permitted by applicable law.  
 
@@ -114,7 +115,7 @@ Whether you are a consumer or a business user:
 
 ● If we fail to comply with these Terms and Conditions, we will be responsible for loss or damage you suffer that is a foreseeable result of our breach of these Terms and Conditions, but we would not be responsible for any loss or damage that were not foreseeable at the time you started using the App/Services.  
 
-Notwithstanding anything to the contrary contained in the Disclaimer/Limitation of Liability section, our liability to you for any cause whatsoever and regardless of the form of the action, will at all times be limited to a total aggregate amount equal to the greater of (a) the sum of £AUD 2000 or (b) the amount paid, if any, by you to us for the Services/Site during the six (6) month period prior to any cause of action arising.   
+Notwithstanding anything to the contrary contained in the Disclaimer/Limitation of Liability section, our liability to you for any cause whatsoever and regardless of the form of the action, will at all times be limited to a total aggregate amount equal to the greater of (a) the sum of £AUD 2000 or (b) the amount paid, if any, by you to us for the Services/App during the six (6) month period prior to any cause of action arising.   
 
 If you are a business user: 
 
@@ -139,7 +140,7 @@ If you are a consumer user:
 
 ● You have legal rights in relation to goods that are faulty or not as described. Advice about your legal rights is available from your local Citizens' Advice Bureau or Trading Standards office. Nothing in these Terms and Conditions will affect these legal rights.     
 
-8.    Term and Termination    
+## 8.    Term and Termination    
 
 8.1 These Terms and Conditions shall remain in full force and effect while you use the App or Services or are otherwise a user of the App, as applicable. You may terminate your use or participation at any time, for any reason, by following the instructions for terminating user accounts in your account settings, if available, or by contacting us at admin@logicfactory.com.au.  
 
@@ -149,7 +150,7 @@ If we determine, in our sole discretion, that your use of the App/Services is in
 
 8.3 If we terminate or suspend your account for any reason set out in this Section 9, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress. 
 
-9.    General      
+## 9.    General      
 
 9.1  Using the App, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the App, satisfy any legal requirement that such communication be in writing.  
 
@@ -165,13 +166,13 @@ You hereby agree to the use of electronic signatures, contracts, orders and othe
 
 9.6 If any provision or part of a provision of these Terms and Conditions is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and Conditions and does not affect the validity and enforceability of any remaining provisions.  
 
-9.7 There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms and Conditions or use of the Site or Services. 
+9.7 There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms and Conditions or use of the App or Services. 
 
-9.8 For consumers only  - Please note that these Terms and Conditions, their subject matter and their formation, are governed by Australian law. You and we both agree that the courts of Australia will have exclusive jurisdiction. If you have any complaint or wish to raise a dispute under these Terms and Conditions or otherwise in relation to the Site please send an email to admin@logicfactory.com.au  
+9.8 For consumers only  - Please note that these Terms and Conditions, their subject matter and their formation, are governed by Australian law. You and we both agree that the courts of Australia will have exclusive jurisdiction. If you have any complaint or wish to raise a dispute under these Terms and Conditions or otherwise in relation to the App please send an email to admin@logicfactory.com.au  
 
 9.9 For business users only - If you are a business user, these Terms and Conditions, their subject matter and their formation (and any non-contractual disputes or claims) are governed by Australian Law. We both agree to the exclusive jurisdiction of the courts of Australia.   
 
-9.10 The following are trade marks of Logicfactory pvt ltd. You are not permitted to use them without our approval, unless they are part of material our Site explicitly states you are permitted to use.    
+9.10 The following are trade marks of Logicfactory pvt ltd. You are not permitted to use them without our approval, unless they are part of material our App explicitly states you are permitted to use.    
  a) Logicfactory, trade marked in Australia
 b) Tribo, trade marked in Australia
 
