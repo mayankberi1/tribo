@@ -37,33 +37,33 @@ If you do not agree with all of these Terms and Conditions, then you are prohibi
 2.2 As a user of this App, you agree not to:
 
 
-● Systematically retrieve data or other content from the App to a compile database or directory without written permission from us
-● Make any unauthorised use of the App, including collecting usernames and/or email addresses of users to send unsolicited email or creating user accounts under false pretences
-● Use a buying agent or purchasing agent to make purchases on the App
-● Use the App for advertising or selling goods and services
-● Circumvent, disable, or otherwise interfere with security-related features of the App, including features that prevent or restrict the use or copying of any content or enforce limitations on the use
-● Engage in unauthorised framing of or linking to the App
-● Trick, defraud, or mislead other users and us, especially in any attempt to learn sensitive account information such as user passwords
-● Make improper use of our support services, or submit false reports of abuse or misconduct
-● Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools
-● Interfere with, disrupt, or create an undue burden on the App or the networks and services connected to the App
-● Attempt to impersonate another user or person, or use the username of another user
-● Sell or otherwise transfer your profile
-● Use any information obtained from the App in order to harass, abuse, or harm another person
-● Use the App or our content as part of any effort to compete with us or to create a revenue-generating endeavour or commercial enterprise
-● Decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the App
-● Attempt to access any portions of the App that you are restricted from accessing
-● Harass, annoy, intimidate, or threaten any of our employees, agents, or other users
-● Delete the copyright or other proprietary rights notice from any of the content
-● Copy or adapt the App's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code
-● Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material that interferes with any party's uninterrupted use and enjoyment of the App, or any material that acts as a passive or active information collection or transmission mechanism
-● Use, launch, or engage in any automated use of the system, such as using scripts to send comments or messages, robots, scrapers, offline readers, or similar data gathering and extraction tools
-● Disparage, tarnish, or otherwise harm, in our opinion, us and/or the App
-● Use the App in a manner inconsistent with any applicable laws or regulations
-● Threaten users with negative feedback or offering services solely to give positive feedback to users
-● Misrepresent experience, skills, or information about a User
-● Advertise products or services not intended by us
-● Falsely imply a relationship with us or another company with whom you do not have a relationship     
+* Systematically retrieve data or other content from the App to a compile database or directory without written permission from us
+* Make any unauthorised use of the App, including collecting usernames and/or email addresses of users to send unsolicited email or creating user accounts under false pretences
+* Use a buying agent or purchasing agent to make purchases on the App
+* Use the App for advertising or selling goods and services
+* Circumvent, disable, or otherwise interfere with security-related features of the App, including features that prevent or restrict the use or copying of any content or enforce limitations on the use
+* Engage in unauthorised framing of or linking to the App
+* Trick, defraud, or mislead other users and us, especially in any attempt to learn sensitive account information such as user passwords
+* Make improper use of our support services, or submit false reports of abuse or misconduct
+* Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools
+* Interfere with, disrupt, or create an undue burden on the App or the networks and services connected to the App
+* Attempt to impersonate another user or person, or use the username of another user
+* Sell or otherwise transfer your profile
+* Use any information obtained from the App in order to harass, abuse, or harm another person
+* Use the App or our content as part of any effort to compete with us or to create a revenue-generating endeavour or commercial enterprise
+* Decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the App
+* Attempt to access any portions of the App that you are restricted from accessing
+* Harass, annoy, intimidate, or threaten any of our employees, agents, or other users
+* Delete the copyright or other proprietary rights notice from any of the content
+* Copy or adapt the App's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code
+* Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material that interferes with any party's uninterrupted use and enjoyment of the App, or any material that acts as a passive or active information collection or transmission mechanism
+* Use, launch, or engage in any automated use of the system, such as using scripts to send comments or messages, robots, scrapers, offline readers, or similar data gathering and extraction tools
+* Disparage, tarnish, or otherwise harm, in our opinion, us and/or the App
+* Use the App in a manner inconsistent with any applicable laws or regulations
+* Threaten users with negative feedback or offering services solely to give positive feedback to users
+* Misrepresent experience, skills, or information about a User
+* Advertise products or services not intended by us
+* Falsely imply a relationship with us or another company with whom you do not have a relationship     
 
 ## 3.  Our content    
 
